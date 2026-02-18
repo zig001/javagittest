@@ -1,5 +1,5 @@
 public class TestGitHub {
-    public static void main(String [] args) {
-        System.out.println("Test gitHub, from first developer");
+    public static void main(String [] args) {;
+        System.out.println("Test gitHub from all developers");
     }
 }
